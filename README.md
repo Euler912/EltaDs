@@ -11,7 +11,6 @@ The workflow is split into two main parts:
    - normalizes selected numeric features,
    - trains the neural network,
    - plots metrics (loss, confusion matrix, ROC),
-   - saves the trained model to disk.
 
 ---
 
